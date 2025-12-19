@@ -5,7 +5,7 @@ import imgKhaled from '../assets/WhatsApp Image 2025-12-19 at 12.37.54 AM.jpeg';
 import imgYoussef from '../assets/WhatsApp Image 2025-12-19 at 12.36.35 AM.jpeg';
 import imgMostafa from '../assets/WhatsApp Image 2025-12-19 at 12.38.35 AM.jpeg';
 import imgAhmed from '../assets/WhatsApp Image 2025-12-19 at 12.35.59 AM.jpeg';
-
+import imgAbdelkhalek from '../assets/WhatsApp Image 2025-12-19 at 11.14.11 AM.jpeg'
 
 const teamMembers = [
     {
@@ -20,20 +20,20 @@ const teamMembers = [
         role: "AI Engineer",
         github: "https://github.com/abdelkhalek-soudy",
         linkedin: "https://www.linkedin.com/in/abdelkhalek-soudy-337b35286/",
-        photo: null
+        photo: imgAbdelkhalek
     },
     {
         name: "Mostafa Elroby",
         role: "Sales & Marketing",
         github: "#",
         linkedin: "https://www.linkedin.com/in/%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%8A-89a10a273/",
-        photo: imgMostafa
+        photo: null
     },
     {
         name: "Ahmed Abdullah",
         role: "Cyber Security",
-        github: "#",
-        linkedin: "#",
+        github: "https://github.com/AhmedEmbedd",
+        linkedin: "https://www.linkedin.com/in/ahmed-abdulla-mourad?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         photo: imgAhmed
     },
     {
